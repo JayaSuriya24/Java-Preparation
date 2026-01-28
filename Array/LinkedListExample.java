@@ -7,7 +7,6 @@ public class LinkedListExample {
         //Each element is called a node, and each node contains a data part and address part and
         //the address part of the last node contains null to indicate the end of the list.
         //Each element is linked to the next element using pointers.
-        //Advantages of Linked List over Array
         //Dynamic Size: Linked lists can grow and shrink in size as needed, whereas arrays have a fixed size.
         //Ease of Insertion/Deletion: Inserting or deleting elements in a linked list is generally more efficient than in an array, especially for large datasets.
         //Disadvantages of Linked List over Array
